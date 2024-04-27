@@ -1,0 +1,25 @@
+3/7 --- 32:48
+
+- =====client======
+1.)npx create-react-app client
+- npm install @mui/material @emotion/react @emotion/styled
+- npm i axios
+--npm i react-router-dom
+
+====Server====
+-npm init
+- npm i express
+-npm i --save-dev nodemon
+- npm i mongoose
+- npm i dotenv
+- npm i cors
+- npm i body-parser
+- npm i bcrypt
+- npm i jsonwebtoken
+
+- npm i multer-gridfs-storage
+- npm i multer
+
+- npm i gridfs-stream
+
+5/7 18 min
